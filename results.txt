@@ -1,0 +1,5 @@
+
+sirivalli | CO2: 118.50 kg | Medium Carbon Footprint | Trees Needed: 5.64
+sahasra | CO2: 94.55 kg | Low Carbon Footprint | Trees Needed: 4.50
+saanvika | CO2: 98.20 kg | Low Carbon Footprint | Trees Needed: 4.68
+ishana | CO2: 121.10 kg | Medium Carbon Footprint | Trees Needed: 5.77
